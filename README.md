@@ -21,7 +21,9 @@ Replace with your name and item.
 ### What we will do less of tomorrow
 
 ## Day 2 Retrospective
-
+Was able to get through alot of work even though in was by myself(lynk),
+the coding worked more often then not.
+However git is still hardly working however it is only the push command that doesnt seem to work.
 ## Final Retrospective
 
 This is the readme. Formatting of text is as follows.
