@@ -25,7 +25,7 @@ Was able to get through alot of work even though in was by myself(lynk),
 the coding worked more often then not.
 However git is still hardly working however it is only the push command that doesnt seem to work.
 ## Final Retrospective
-
+The tinkerCAD went smoothly with few errors and the only errors being very simple mistakes and werent with problems with the code and i feel compared to the other teams i did very well considering i was a one man team for pretty much the whole 3 days
 This is the readme. Formatting of text is as follows.
 
 # Largest Heading
